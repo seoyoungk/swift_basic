@@ -25,7 +25,6 @@ func printMyName(name: String) -> Void {
     print(name)
 }
 
-
 func printYourName(name: String) {   // -> Void를 생략할 수 있다.
     print(name)
 }
