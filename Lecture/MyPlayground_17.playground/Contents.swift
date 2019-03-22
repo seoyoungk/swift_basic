@@ -39,6 +39,11 @@ struct Person: Talkable {
     var topic: String
     let language: String
     
+    // 읽기 전용 프로퍼티 요구는 연산 프로퍼티로 대체가 가능하다
+    // var language: String {return "한국어"}
+    
+    // 읽기,쓰기 프로퍼티 또한 연산 프로퍼티로 대체할 수 있다
+    
     // 메서드 요구 준수
     func talk() {
         print("\(topic)에 대해 \(language)로 말합니다")
@@ -102,6 +107,7 @@ class SubClass: SuperClass, Writeable, ReadSpeakable {
     func write() { }
     func speak() { }
 }
+
 
 // 프로토콜 준수 확인
 // 인스턴스가 특정 프로토콜을 준수하는지 확인할 수 있다
