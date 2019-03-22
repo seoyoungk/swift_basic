@@ -121,7 +121,6 @@ print(sum) // 300
 
 
 
-
 /* 프로퍼티 감시자 */
 
 struct Money2 {
