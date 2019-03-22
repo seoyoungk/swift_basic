@@ -35,6 +35,7 @@ default:
     print("unknown")
 }
 
+
 //정수 타입 이외의 대부분의 기본 타입을 사용할 수 있다.
 switch "seoyoung" {
 case "jake":      // case "jake","hanna":    이어서 같이 사용가능하다.

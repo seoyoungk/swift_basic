@@ -22,7 +22,6 @@ func sumFunction (a: Int, b: Int) -> Int {
 
 var sumResult: Int = sumFunction(a: 1, b: 2)
 
-
 print(sumResult)
 
 

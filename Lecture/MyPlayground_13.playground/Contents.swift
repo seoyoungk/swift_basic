@@ -70,7 +70,6 @@ let mike: PersonC = PersonC(name: "mike", age: 31, nickName: "MK")
 let seoyoung: PersonC = PersonC(name: "seoyoung", age: 26, nickName: "SY")
 
 
-
 //암시적 추출 옵셔널은 인스턴스 사용에 꼭 필요하지만 초기값을 할당하지 않고자 할 때 사용
 
 class Puppy{

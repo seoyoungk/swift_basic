@@ -34,7 +34,6 @@ var hanna: Student = Student()
 var json: UniversityStudent = UniversityStudent()
 
 
-
 // 타입 확인
 // is를 사용하여 타입을 확인
 

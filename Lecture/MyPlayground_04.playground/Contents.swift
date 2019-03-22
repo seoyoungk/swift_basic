@@ -25,4 +25,3 @@ var someAnyObject: AnyObject = SomeClass()
 //nil
 //someAny = nil //오류 ! 어떤 타입도 수용가능하지만, nil 빈 값은 허용하지 않는다.
 //someAnyObject = nul //오류 ! 어떤 클래스 타입도 수용가능하지만, nil 빈 값은 허용하지 않는다.
-

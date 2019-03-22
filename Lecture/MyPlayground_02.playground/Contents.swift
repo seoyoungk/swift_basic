@@ -32,6 +32,7 @@ let inputB: Int = 200
 // 선언 후 첫 할당
 sum = inputA + inputB
 
+
 //할당 후 다시 값을 바꿀 수 없다.
 
 //변수도 차후에 할당하는 것이 가능

@@ -35,7 +35,6 @@ functionWithAssert(age: 50) // 당신의 나이는 50세입니다
 //functionWithAssert(age: nil) // 동작 중지, 검증 실패
 
 
-
 // Early Exit
 
 // guard를 사용하여 잘못된 값의 전달 시 특정 실행구문을 빠르게 종료

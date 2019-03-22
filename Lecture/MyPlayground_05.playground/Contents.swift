@@ -33,7 +33,7 @@ integers.count  //배열 카운트
 
 //Array<Double>와 [Double]는 동일한 표현
 //빈 Double Array 생성
-var doubles: Array<Double> = [Double]() //축약표현
+var doubles: Array<Double> = [Double]() //축약표현 
 
 //빈 String Array 생성
 var Strings: [String] = [String]()
