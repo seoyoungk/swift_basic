@@ -31,7 +31,7 @@ someDouble = 3
 
 
 //Character  //문자열. 한 글자만 가능. 유니코드
-var someCharacter: Character = "K"
+var someCharacter: Character = "K" 
 
 //String
 var someString: String = "하하하"
