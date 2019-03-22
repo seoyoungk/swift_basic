@@ -34,6 +34,7 @@ class Person {
         print("type method - class")
     }
     
+    
     // 재정의 가능한 class 메서드라도
     // final 키워드를 사용하면 재정의 할 수 없다
     // 메서드 앞의 `static`과 `final class`는 똑같은 역할을 한다
